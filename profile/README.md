@@ -1,12 +1,6 @@
-## Hi there 👋
+<div align="center">
+	<img align="center" width="20%" src="./AppLogo.png">
+	<h1 align="center">StudySuite</h1>
+	<p align="center">StudySuite est une suite de logiciels pour les étudiants. Elle intègre des applications conçues pour aider les étudiants dans leurs études et leur permettre de s'entraider</p>
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<p align="center">Pour en apprendre plus sur StudySuite : <a href="https://studysuite.fr/">StudySuite : Les logiciels étudiants innovants</a></p>
