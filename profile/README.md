@@ -1,5 +1,5 @@
 <div align="center">
-	<img align="center" width="20%" src="./AppLogo.png">
+	<img align="center" width="25%" src="https://studysuite.fr/assets/img/apps-icons/AppLogo.png">
 	<h1 align="center">StudySuite</h1>
 	<p align="center">StudySuite est une suite de logiciels pour les étudiants. Elle intègre des applications conçues pour aider les étudiants dans leurs études et leur permettre de s'entraider</p>
 
